@@ -3,6 +3,8 @@
 This file is a quick template that allows a Unity project to be displayed 
 on a Dreamoc HD3 by Real Fiction (www.realfiction.com).
 
+Download https://github.com/Plan1130/DreamocHD3UnityCamera/releases/latest
+
 The Dreamoc itself is nothing but a fancy monitor, and does not do any 
 positioning/resizing of screens and requires the user to format video
 files in a manner that may require too much effort from a non technical
