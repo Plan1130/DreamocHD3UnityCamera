@@ -3,14 +3,15 @@
 This file is a quick template that allows a Unity project to be displayed 
 on a Dreamoc HD3 by Real Fiction (www.realfiction.com).
 
-Download https://github.com/Plan1130/DreamocHD3UnityCamera/releases/latest
+Download: https://github.com/Plan1130/DreamocHD3UnityCamera/releases/latest
 
-The Dreamoc itself is nothing but a fancy monitor, and does not do any 
-positioning/resizing of screens and requires the user to format video
+The Dreamoc underneath is little more than a fancy monitor, and does not do 
+any positioning/resizing of screens and requires the user to format video
 files in a manner that may require too much effort from a non technical
-user. There is a template for Adobe AfterEffects that allows one single
+user. There is an official template for AfterEffects that allows one single
 video to be displayed on all 3 sides. Because of it's 3D selling point this
-may seem not all too appropriate.
+may seem not all too appropriate, and it doesn't do well to the potential
+of the Dreamoc HD3.
 
 This is where this simple, but nifty little program comes in. It's
 basically a camera that shows a canvas, where 3 RenderTextures are 
