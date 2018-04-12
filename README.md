@@ -14,9 +14,10 @@ may seem not all too appropriate, and it doesn't do well to the potential
 of the Dreamoc HD3.
 
 This is where this simple, but nifty little program comes in. It's
-basically a camera that shows a canvas, where 3 RenderTextures are 
-installed. The textures are rendered through a mask that provides the
-cut outs, as defined by the AfterEffects template by Real Fiction.
+basically a camera on which three other cameras are projected. In more
+technical terms; it shows a canvas, where 3 RenderTextures are pre-installed.
+The textures are rendered through a mask that provides the cut outs, as 
+defined by the AfterEffects template by Real Fiction.
 
 The easiest way to have a camera displayed, is to set the Target Texture
 setting of a camera to a RenderTexture (e.g. FrontRenderTexture). For
@@ -27,7 +28,10 @@ camera, and add the RenderTextures to the 'textures' list.
 For a demo on how to use it, see my other project:
 https://github.com/Plan1130/DreamocHD3UnityCameraDemoProject
 It may bug you about whether or not Blender is installed, but it should 
-run perfectly fine without it. This is the open source MAVEN model, by NASA.
+run perfectly fine without it. This is the open source MAVEN model, by NASA,
+that is causing this, but it is non-essential to the functioning of the
+project. However, Blender is free and open source, so you might want to look
+into it.
 
 NOTE1: The Dreamoc HD3 has a resolution of 1920x1080. You might want to
 stick to it. At the very least, keep a 16:9 ratio.
